@@ -1,10 +1,10 @@
 import {
-  SubframeProvider,
-  Icon as SubframeIcon,
   FeatherAccessibility,
+  Icon as SubframeIcon,
+  SubframeProvider,
 } from "@subframe/core";
 
-const ICON_TYPE: "eager" | "experimental_lazy" = "experimental_lazy";
+const ICON_TYPE: "eager" | "experimental_lazy" = "eager";
 
 export const Icon = () => {
   return (

@@ -1,0 +1,37 @@
+"use client";
+import { Arrow as Arrow2, CheckboxItem as CheckboxItem2, Content as Content2, ContextMenu as ContextMenu$1, ContextMenuArrow as ContextMenuArrow$1, ContextMenuCheckboxItem as ContextMenuCheckboxItem$1, ContextMenuContent as ContextMenuContent$1, ContextMenuGroup as ContextMenuGroup$1, ContextMenuItem as ContextMenuItem$1, ContextMenuItemIndicator as ContextMenuItemIndicator$1, ContextMenuLabel as ContextMenuLabel$1, ContextMenuPortal as ContextMenuPortal$1, ContextMenuRadioGroup as ContextMenuRadioGroup$1, ContextMenuRadioItem as ContextMenuRadioItem$1, ContextMenuSeparator as ContextMenuSeparator$1, ContextMenuSub as ContextMenuSub$1, ContextMenuSubContent as ContextMenuSubContent$1, ContextMenuSubTrigger as ContextMenuSubTrigger$1, ContextMenuTrigger as ContextMenuTrigger$1, Group as Group2, Item as Item2, ItemIndicator as ItemIndicator2, Label as Label2, Portal as Portal2, RadioGroup as RadioGroup2, RadioItem as RadioItem2, Root as Root2, Separator as Separator2, Sub as Sub2, SubContent as SubContent2, SubTrigger as SubTrigger2, Trigger as Trigger$1 } from '../../external/@radix-ui/react-context-menu/dist/index.js';
+
+const Arrow = Arrow2;
+const CheckboxItem = CheckboxItem2;
+const Content = Content2;
+const ContextMenu = ContextMenu$1;
+const ContextMenuArrow = ContextMenuArrow$1;
+const ContextMenuCheckboxItem = ContextMenuCheckboxItem$1;
+const ContextMenuContent = ContextMenuContent$1;
+const ContextMenuGroup = ContextMenuGroup$1;
+const ContextMenuItem = ContextMenuItem$1;
+const ContextMenuItemIndicator = ContextMenuItemIndicator$1;
+const ContextMenuLabel = ContextMenuLabel$1;
+const ContextMenuPortal = ContextMenuPortal$1;
+const ContextMenuRadioGroup = ContextMenuRadioGroup$1;
+const ContextMenuRadioItem = ContextMenuRadioItem$1;
+const ContextMenuSeparator = ContextMenuSeparator$1;
+const ContextMenuSub = ContextMenuSub$1;
+const ContextMenuSubContent = ContextMenuSubContent$1;
+const ContextMenuSubTrigger = ContextMenuSubTrigger$1;
+const ContextMenuTrigger = ContextMenuTrigger$1;
+const Group = Group2;
+const Item = Item2;
+const ItemIndicator = ItemIndicator2;
+const Label = Label2;
+const Portal = Portal2;
+const RadioGroup = RadioGroup2;
+const RadioItem = RadioItem2;
+const Root = Root2;
+const Separator = Separator2;
+const Sub = Sub2;
+const SubContent = SubContent2;
+const SubTrigger = SubTrigger2;
+const Trigger = Trigger$1;
+
+export { Arrow, CheckboxItem, Content, ContextMenu, ContextMenuArrow, ContextMenuCheckboxItem, ContextMenuContent, ContextMenuGroup, ContextMenuItem, ContextMenuItemIndicator, ContextMenuLabel, ContextMenuPortal, ContextMenuRadioGroup, ContextMenuRadioItem, ContextMenuSeparator, ContextMenuSub, ContextMenuSubContent, ContextMenuSubTrigger, ContextMenuTrigger, Group, Item, ItemIndicator, Label, Portal, RadioGroup, RadioItem, Root, Separator, Sub, SubContent, SubTrigger, Trigger };

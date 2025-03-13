@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@astrojs/react": "^4.2.1",
-    "@subframe/core": "file:../../../Desktop/subframe-core",
+    "@subframe/core": "file:../subframe-core-1.137.0-icon-optis",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "astro": "^5.4.3",

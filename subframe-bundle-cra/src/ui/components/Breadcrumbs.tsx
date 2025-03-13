@@ -32,11 +32,7 @@ const Item = React.forwardRef<HTMLElement, ItemProps>(function Item(
   ) : null;
 });
 
-interface DividerProps
-  extends SubframeCore.TypescriptHelpers.Optional<
-    React.ComponentProps<typeof SubframeCore.Icon>,
-    "name"
-  > {
+interface DividerProps {
   className?: string;
 }
 

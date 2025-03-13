@@ -1,4 +1,4 @@
-import { Icon, FeatherAccessibility } from "@subframe/core";
+import { FeatherAccessibility, Icon } from "@subframe/core";
 
 function App() {
   return (

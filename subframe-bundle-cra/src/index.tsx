@@ -4,11 +4,11 @@ import "./index.css";
 import App from "./App";
 import { SubframeProvider } from "@subframe/core";
 
-const ICON_TYPE: "eager" | "experimental_lazy" = "eager";
-
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
+
+const ICON_TYPE: "eager" | "experimental_lazy" = "experimental_lazy";
 
 root.render(
   <React.StrictMode>

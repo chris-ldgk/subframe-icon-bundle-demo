@@ -12,7 +12,7 @@
     "preview": "bunx --bun vite preview"
   },
   "dependencies": {
-    "@subframe/core": "file:../../../Desktop/subframe-core",
+    "@subframe/core": "file:../subframe-core-1.137.0-icon-optis",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },

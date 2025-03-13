@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@subframe/core": "file:../subframe/packages/subframe-core/subframe-core-1.137.0.tgz",
+    "@subframe/core": "file:../subframe-core-1.137.0-icon-optis.tgz",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
@@ -21,8 +21,8 @@
   },
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
-    "start": "TSC_COMPILE_ON_ERROR=true react-scripts start",
-    "build": "TSC_COMPILE_ON_ERROR=true react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App.tsx";
 import { SubframeProvider } from "@subframe/core";
 
-const ICON_TYPE: "eager" | "experimental_lazy" = "eager";
+const ICON_TYPE: "eager" | "experimental_lazy" = "experimental_lazy";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>

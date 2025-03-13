@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@subframe/core": "file:../../../Desktop/subframe-core",
+    "@subframe/core": "file:../subframe-core-1.137.0-icon-optis.tgz",
     "classnames": "^2.5.1",
     "next": "15.2.2",
     "react": "^19.0.0",

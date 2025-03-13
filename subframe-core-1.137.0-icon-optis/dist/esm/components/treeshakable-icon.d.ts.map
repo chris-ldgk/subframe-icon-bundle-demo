@@ -1,0 +1,1 @@
+{"version":3,"file":"treeshakable-icon.d.ts","sourceRoot":"","sources":["../../../src/components/treeshakable-icon.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,EAAc,KAAK,cAAc,EAAE,KAAK,SAAS,EAAE,MAAM,OAAO,CAAA;AAE9E,MAAM,WAAW,qBAAsB,SAAQ,cAAc,CAAC,eAAe,CAAC;IAC5E,IAAI,EAAE,SAAS,CAAA;CAChB;AAED,eAAO,MAAM,gBAAgB,+FAQ3B,CAAA;AAEF,eAAe,gBAAgB,CAAA"}

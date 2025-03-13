@@ -1,0 +1,1 @@
+{"version":3,"file":"lazy-icon.d.ts","sourceRoot":"","sources":["../../../src/components/lazy-icon.tsx"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,EAAE,cAAc,EAA6B,MAAM,OAAO,CAAA;AACxE,OAAO,EAAE,KAAK,QAAQ,EAAa,MAAM,wBAAwB,CAAA;AAGjE,MAAM,WAAW,aAAc,SAAQ,cAAc,CAAC,eAAe,CAAC;IACpE,IAAI,EAAE,QAAQ,CAAA;CACf;AASD,eAAO,MAAM,QAAQ,uFAuBnB,CAAA;AAEF,eAAe,QAAQ,CAAA"}
